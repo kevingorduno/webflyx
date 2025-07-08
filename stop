@@ -1,0 +1,36 @@
+[33mcommit 814bee7ec76dbf5fc49bfc5f3056cbd7300644ba[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Merge: 2f02a65 63d778b
+Author: kevingorduno <contact@kevinorduno.com>
+Date:   Mon Jul 7 23:15:45 2025 -0700
+
+    F: Merge branch 'add_classics'
+
+[33mcommit 2f02a6533da717259737f85bcb675145ee06ecab[m
+Author: kevingorduno <contact@kevinorduno.com>
+Date:   Mon Jul 7 23:14:16 2025 -0700
+
+    E: populating contents.md
+
+[33mcommit 63d778bf48466b63cdb7338f86a7aa45f687d263[m
+Author: kevingorduno <contact@kevinorduno.com>
+Date:   Mon Jul 7 23:04:24 2025 -0700
+
+    D: add classics to classics branch
+
+[33mcommit 788ecebce7e71501135adecab4cc852cbdaa2938[m
+Author: kevingorduno <contact@kevinorduno.com>
+Date:   Mon Jul 7 11:48:59 2025 -0700
+
+    C: add quotes files
+
+[33mcommit 2cdf851b38369827e5839cfaf32402c32c7fd719[m
+Author: kevingorduno <contact@kevinorduno.com>
+Date:   Mon Jul 7 11:45:06 2025 -0700
+
+    B: add titles
+
+[33mcommit 516ce42543cad9ddfedbd8317371b6852fa812ba[m
+Author: kevingorduno <contact@kevinorduno.com>
+Date:   Sun Jul 6 16:13:04 2025 -0700
+
+    A: add contents.md
